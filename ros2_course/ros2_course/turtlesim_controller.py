@@ -128,7 +128,7 @@ def main(args=None):
     koch_bot = KochSnowflakeBot()
 
     # Draw a Koch snowflake with order 3 and size 5
-    koch_bot.draw_koch_snowflake(1, 2.0)
+    koch_bot.draw_koch_snowflake(4, 4.0)
 
     rclpy.spin(koch_bot)
 
