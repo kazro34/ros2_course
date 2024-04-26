@@ -15,7 +15,7 @@ To run the packages you need to be in the correct folder
 
     cd ~/ros2_ws
 
-And then you can run both of the packages:
+And then you can run both of the launch files:
 
     ros2 launch ros2_course turtlesim_world_1.py
     ros2 launch ros2_course turtlesim_launch.py
